@@ -1,4 +1,5 @@
 ## Hi there 👋
+🚀 Computer Science student with a fervent passion for Data Structures and Algorithms (DSA). Eager learner, constantly seeking to optimize solutions and explore new concepts. Collaborative by nature, I thrive in team settings. My goal is to leverage my expertise to make impactful contributions in tech. Let's connect and explore opportunities together!
 
 <!--
 **Ashutosh26l/Ashutosh26l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
