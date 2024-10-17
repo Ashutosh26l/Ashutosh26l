@@ -4,13 +4,6 @@
 
 currently working on open source projects.<br>
 learning Blockchain /WEB3.0<br>
-
-
-
-
-
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
