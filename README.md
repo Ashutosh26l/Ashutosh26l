@@ -12,7 +12,7 @@
     📧 Email: aksmba2611@gmail.com<br>
 <br>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh26l&theme=nDark" alt="Ashutosh26l" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh26l&theme=Dark" alt="Ashutosh26l" /></p>
 
 
 
