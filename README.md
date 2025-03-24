@@ -8,7 +8,7 @@
 <h4>-->Currently working on open-source projects and learning Blockchain/Web3.0.</h4>
 <h4>-->Actively developing smart contracts and seeking continuous growth.</h4>
 <h4>--> Goal:Leverage expertise to make impactful contributions in tech.</h4>
-<h4>-->Let's connect!<br>
+<h4>-->Let's connect!<br
     📧 Email: aksmba2611@gmail.com<br>
 <br>
 <br>
