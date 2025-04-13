@@ -16,12 +16,13 @@
 <b>My Social Handles ✨</b><br>
 
 
+[![LeetCode 50 Days Badge](./assets/leetcode-50days.png)](https://leetcode.com/Ashutosh26l)
 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ashutosh26l)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-kumar-singh-linkedaccount/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ashutosh26l)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your_username)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Ashutosh26l)
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashutosh26l&show_icons=true&locale=en&layout=compact" & theme="Dark" alt="Ashutosh26l" /></p>
