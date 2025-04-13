@@ -16,7 +16,7 @@
 <b>My Social Handles ✨</b><br>
 
 
-[![LeetCode 50 Days Badge](./assets/leetcode-50days.png)](https://leetcode.com/Ashutosh26l)
+[![LeetCode 50 Days Badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Frajveerdev_leetcode-codingjourney-programming-activity-7216460892333301760-RxDB&psig=AOvVaw0nDortDqY3VyCyu4DNoufK&ust=1744615673716000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJi4nYK-1IwDFQAAAAAdAAAAABAE)](https://leetcode.com/Ashutosh26l)
 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ashutosh26l)
