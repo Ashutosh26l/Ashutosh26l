@@ -14,6 +14,8 @@
 <br>
 
 <b>My Social Handles ✨</b><br>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Ashtosh26l)](https://leetcode.com/Ashutosh26l)
+
 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ashutosh26l)
