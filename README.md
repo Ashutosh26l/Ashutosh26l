@@ -43,9 +43,15 @@
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" alt="Instagram" style="margin-right: 20px;" />
   </a>
 
+  <!-- LeetCode -->
+<a href="https://leetcode.com/u/Ashutosh26l/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode" style="margin-right: 20px;" />
+</a>
+
+
   <!-- GeeksforGeeks -->
   <a href="https://auth.geeksforgeeks.org/user/ashutosh26l/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" alt="GeeksforGeeks" style="margin-right: 20px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" alt="GeeksforGeeks" style="margin-right: 60px;" />
   </a>
 
   <!-- Coding Ninjas -->
@@ -60,15 +66,24 @@
 
 ### 🛠️ Languages and Tools:
 
+<!-- Languages & Frameworks -->
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="margin-right:90000cm;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" style="margin-right:0.9cm;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="margin-right:0.9cm;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" style="margin-right:0.9cm;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js Logo" />
-  <img src="https://img.icons8.com/color/48/tailwindcss.png" width="40" style="margin-right:0.9cm;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="margin-right:0.9cm;" />
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40" alt="GitHub White Logo" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" style="margin-right: 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="margin-right: 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="margin-right: 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" style="margin-right: 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" style="margin-right: 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" style="margin-right: 20px;" />
+  <img src="https://www.svgrepo.com/show/499816/database.svg" width="40" style="margin-right: 20px;" />
 </p>
+
+<!-- Dev Tools -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="margin-right: 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" style="margin-right: 20px;" />
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" width="40" style="margin-right: 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin-right: 20px;" />
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40" alt="GitHub White Logo" />
+</p>
+
 
