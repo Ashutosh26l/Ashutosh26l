@@ -24,6 +24,14 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashutosh26l&show_icons=true&locale=en&layout=compact" & theme="Dark" alt="Ashutosh26l" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh26l&theme="dark" alt="ashutosh26l" /></p>
 
+<h3>## 🧰 Tech Stack</h3>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+
+
 
 
 
