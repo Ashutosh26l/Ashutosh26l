@@ -1,12 +1,12 @@
 <h2>👋 Hello, I'm Ashutosh Kumar</h2>
-
+<br><br>
 <ul>
-  <li>🎯 I’m currently working on <strong>AI/Code Visualization Projects</strong></li>
-  <li>🌱 I’m currently learning <strong>Full Stack + Competitive Programming</strong></li>
-  <li>🤝 I’m collaborating on <strong>Open Source / GitHub</strong></li>
-  <li>💬 Ask me about <strong>Web Dev, Debugging, React</strong></li>
-  <li>📫 How to reach me: <a href="mailto:ashutosh.yourmail@gmail.com">ashutosh.yourmail@gmail.com</a></li>
-  <li>⚡ Fun fact: <i>I love building what I imagine.</i></li>
+  <li>🎯 I’m currently working on <strong>AI/Code Visualization Projects</strong></li><br>
+  <li>🌱 I’m currently learning <strong>Full Stack + Competitive Programming</strong></li><br>
+  <li>🤝 I’m collaborating on <strong>Open Source / GitHub</strong></li><br>
+  <li>💬 Ask me about <strong>Web Dev, Debugging, React</strong></li><br>
+  <li>📫 How to reach me: <a href="mailto:ashutosh.yourmail@gmail.com">ashutosh.yourmail@gmail.com</a></li><br>
+  <li>⚡ Fun fact: <i>I love building what I imagine.</i></li><br>
 </ul>
 
 ---
