@@ -8,7 +8,7 @@
   <li><h4>🌱 I’m currently learning <strong>Full Stack + Data Structure Algorithms.</strong></h4></li>
   <li><h4>🤝 I’m collaborating on <strong>Open Source / GitHub.</strong></h4></li>
   <li><h4>💬 Ask me about <strong>Web Dev, Debugging, React.</strong></h4></li>
-  <li><h4>📫 How to reach me: <a href="mailto:aksmba2611@gmail.com">E-MAIL</a></h4></li>
+  <li><h4>📫 How to reach me: <a href="mailto:aksmba2611@gmail.com">aksmba2611@gmail.com</a></h4></li>
   <li><h4>⚡ Fun fact: <i>I love building what I imagine.</i></h4></li>
 </ul>
 <br>
