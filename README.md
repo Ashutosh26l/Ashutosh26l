@@ -87,7 +87,7 @@
 <br>
 
 <!-- Top Languages -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh26l&show_icons=true&locale=en&layout=compact&theme=dark" alt="deveshkumar8423" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh26l&show_icons=true&locale=en&layout=compact&theme=dark" alt="Ashutosh26l" /></p>
 
 
 <br>
