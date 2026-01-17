@@ -5,7 +5,7 @@
 <br>
 <ul>
   <li><h4>🎯 I’m currently working on <strong> Projects that could solve Real world problems .</strong></h4></li>
-  <li><h4>🌱 I’m currently learning <strong>Full Stack + Data Structure Algorithms.</strong></h4></li>
+  <li><h4>🌱 I’m currently learning <strong>Full Stack + DSA + DevOps.</strong></h4></li>
   <li><h4>🤝 I’m collaborating on <strong>Open Source / GitHub.</strong></h4></li>
   <li><h4>💬 Ask me about <strong>Web Dev, Debugging, React.</strong></h4></li>
   <li><h4>📫 How to reach me: <a href="mailto:aksmba2611@gmail.com">aksmba2611@gmail.com</a></h4></li>
