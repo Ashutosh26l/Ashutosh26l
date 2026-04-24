@@ -1,7 +1,6 @@
 <div align="center">
   <h1>👋 Hello, I'm Ashutosh Kumar</h1>
-</div>
-
+>
 <br>
 <ul>
   <li><h4>🎯 I’m currently working on <strong> Projects that could solve Real world problems .</strong></h4></li>
