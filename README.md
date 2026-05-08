@@ -1,5 +1,4 @@
-<div align="left">
-  <h1>👋 Hello, I'm Ashutosh Kumar</h1>
+<h1><t>             👋 Hello, I'm Ashutosh Kumar</t></h1>
 
 <br>
 <ul>
