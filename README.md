@@ -1,4 +1,4 @@
-<h1><t>            👋 Hello, I'm Ashutosh Kumar</t></h1>
+<h1><t>👋 Hello, I'm Ashutosh Kumar</t></h1>
 
 <br>
 <ul>
