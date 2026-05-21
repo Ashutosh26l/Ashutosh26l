@@ -1,7 +1,7 @@
 <h1><t>👋 Hello, I'm Ashutosh Kumar</t></h1>
 
 <br>
-<ul>
+<ul> 
   <li><h4>🎯 I’m currently working on <strong>Projects that could solve Real world problems.</strong></h4></li>
   <li><h4>🌱 I’m currently learning <strong>Full Stack + DSA + DevOps.</strong></h4></li>
   <li><h4>🤝 I’m collaborating on <strong>Open Source / GitHub.</strong></h4></li>
