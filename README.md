@@ -1,4 +1,4 @@
-<h1>👋 Hello, I'm Ashutosh Kumar</h1>
+<h1>👋 Hello, I'm Ashutosh Kumar Singh</h1>
 
 <p align="center">
   <img src="https://media.tenor.com/etlTgo63x_IAAAAM/hello-well.gif" width="500" alt="Hello GIF" />
