@@ -1,6 +1,11 @@
-<h1><t>👋 Hello, I'm Ashutosh Kumar</t></h1>
+<h1>👋 Hello, I'm Ashutosh Kumar</h1>
+
+<p align="center">
+  <img src="https://media.tenor.com/etlTgo63x_IAAAAM/hello-well.gif" width="500" alt="Hello GIF" />
+</p>
 
 <br>
+
 <ul> 
   <li><h4>🎯 I’m currently working on <strong>Projects that could solve Real world problems.</strong></h4></li>
   <li><h4>🌱 I’m currently learning <strong>Full Stack + DSA + DevOps.</strong></h4></li>
@@ -98,5 +103,3 @@
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh26l" alt="Ashutosh26l" />
 </p>
-
-</div>
