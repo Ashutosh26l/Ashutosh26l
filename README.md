@@ -92,14 +92,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original.svg" width="40" />
 </p>
 
-<br>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh26l&show_icons=true&locale=en&layout=compact&theme=dark" alt="Ashutosh26l" />
-</p>
-
-<br><br><br><br><br><br><br><br>
-
+<br><br>
+<img width="498" height="226" alt="minions-despicableme" src="https://github.com/user-attachments/assets/0f5b8f03-a266-47e2-9372-c5d47f611627" />
+<br><br>
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh26l" alt="Ashutosh26l" />
 </p>
