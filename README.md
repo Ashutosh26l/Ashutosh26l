@@ -48,7 +48,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode" />
   </a>
 
-  <a href="https://auth.geeksforgeeks.org/user/ashutosh26l/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/ashutosh26_l?tab=activity" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" alt="GeeksforGeeks" />
   </a>
 
